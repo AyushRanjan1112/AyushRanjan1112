@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning java and sharpening my skills in the java language and DSA.
+I'm currently learning java and sharpening my skills in the *java* language and *DSA*.
 ##### I'm looking for help with DSA Problem solving.
 
 <!--
