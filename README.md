@@ -3,6 +3,8 @@
 I'm currently learning java and sharpening my skills in the *java* language and *DSA*.
 ##### I'm looking for help with DSA Problem solving.
 
+Also learning LangChain, while discovering it's use cases and real world applications.
+
 <!--
 **AyushRanjan1112/AyushRanjan1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
